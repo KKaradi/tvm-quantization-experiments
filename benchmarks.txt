@@ -1,0 +1,24 @@
+no_quantization
+Execution time summary:
+ mean (ms)   median (ms)    max (ms)     min (ms)     std (ms)  
+  123.2618     123.8307     131.2479     113.6455      4.2161                  
+nbit8_dtypeint8
+Execution time summary:
+ mean (ms)   median (ms)    max (ms)     min (ms)     std (ms)  
+  498.1155     496.3836     505.6944     492.0317      4.9936                  
+nbit4_dtypeint8
+Execution time summary:
+ mean (ms)   median (ms)    max (ms)     min (ms)     std (ms)  
+  495.4293     496.4415     503.6331     480.5381      7.3335                  
+nbit2_dtypeint8
+Execution time summary:
+ mean (ms)   median (ms)    max (ms)     min (ms)     std (ms)  
+  512.3324     513.7891     520.5761     500.0497      7.1854                  
+nbit16_dtypeint16
+Execution time summary:
+ mean (ms)   median (ms)    max (ms)     min (ms)     std (ms)  
+  295.0180     295.8550     311.1781     278.5558     11.0452                  
+nbit1_dtypeint8
+Execution time summary:
+ mean (ms)   median (ms)    max (ms)     min (ms)     std (ms)  
+   5.2328       5.3807       6.1950       2.9750       0.8713                  
